@@ -6,10 +6,10 @@
 
 Currently learning about world of programming. I'm also studying FullStack developer in SoyHenry's bootcamp.
 
-Actualmente estoy aprendiendo sobre el mundo de la programacion. Tambien estoy estudiando la carrera FullStack en el bootcamp SoyHenry.
+- Actualmente estoy aprendiendo sobre el mundo de la programacion. Tambien estoy estudiando la carrera FullStack en el bootcamp SoyHenry. -
 
 ### Skills
 
-CSS   ~  HTML  ~  Javascript
+### CSS   ~  HTML  ~  Javascript
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Fedelbt?style=social)
