@@ -8,7 +8,9 @@ Currently, i'm learning about world of programming. I'm also studying FullStack 
 
 > Actualmente estoy aprendiendo sobre el mundo de la programacion. Tambien estoy estudiando la carrera FullStack en el bootcamp SoyHenry.
 
-### Skills
+***
+
+## Skills
 
 ### CSS   ~  HTML  ~  Javascript
 
