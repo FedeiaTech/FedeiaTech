@@ -6,9 +6,9 @@
 
 ## About me
 
-Currently, i'm learning about world of programming. I'm also studying FullStack developer in SoyHenry's bootcamp.
+Currently, i'm learning about world of programming. I'm also studying FullStack developer in Egg's Cooperation.
 
-> Actualmente estoy aprendiendo sobre el mundo de la programacion. Tambien estoy estudiando la carrera FullStack en el bootcamp SoyHenry.
+> Actualmente estoy aprendiendo sobre el mundo de la programacion. Tambien estoy estudiando la carrera FullStack con Egg Cooperation.
 
 ***
 
