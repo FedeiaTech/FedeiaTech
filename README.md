@@ -1,6 +1,6 @@
 # Hello little world!
 
-![Fede Iacono - Programador Web](https://raw.githubusercontent.com/Kikomori1/Kikomori1/master/assets/1.jpg)
+![Fede Iacono - Programador Web](https://raw.githubusercontent.com/Kikomori1/Kikomori1/master/assets/01.jpg)
 
 ***
 
