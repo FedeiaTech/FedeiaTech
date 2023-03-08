@@ -6,7 +6,7 @@
 
 ## About me
 
-Currently, i'm learning about world of programming. I'm also studying FullStack developer in Egg's Cooperation.
+Currently, i'm learning about programming world. Also studying FullStack developer in Egg's Cooperation.
 
 > Actualmente estoy aprendiendo sobre el mundo de la programacion. Tambien estoy estudiando la carrera FullStack con Egg Cooperation.
 
@@ -14,6 +14,6 @@ Currently, i'm learning about world of programming. I'm also studying FullStack 
 
 ## Skills
 
-### CSS   ~  HTML  ~  Javascript
+### CSS   ~  HTML  ~  Javascript --> Fullstack 15%
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Fedelbt?style=social)
