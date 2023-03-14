@@ -18,5 +18,5 @@ I'm current learning about programming world. Also studying FullStack developer 
 
 ***
 
-You can also find me on 
+You can also find me on    
       ![Twitter Follow](https://img.shields.io/twitter/follow/Fedelbt?style=social)
