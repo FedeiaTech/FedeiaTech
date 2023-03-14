@@ -1,4 +1,4 @@
-# Hello little world!
+# Welcome to my repo channel!
 
 ![Fede Iacono - Programador Web](https://raw.githubusercontent.com/Kikomori1/Kikomori1/master/assets/01.jpg)
 
@@ -6,7 +6,7 @@
 
 ## About me
 
-Currently, i'm learning about programming world. Also studying FullStack developer in Egg's Cooperation.
+I'm current learning about programming world. Also studying FullStack developer in Egg's Cooperation.
 
 > Actualmente estoy aprendiendo sobre el mundo de la programacion. Tambien estoy estudiando la carrera FullStack con Egg Cooperation.
 
@@ -14,6 +14,9 @@ Currently, i'm learning about programming world. Also studying FullStack develop
 
 ## Skills
 
-### CSS   ~  HTML  ~  Javascript --> Fullstack 15%
+### CSS  ~  HTML  ~  Javascript  ~  JAVA  --> Fullstack 15%
 
+***
+
+You can also find me on 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Fedelbt?style=social)
