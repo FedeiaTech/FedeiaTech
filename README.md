@@ -8,7 +8,7 @@
 
 I'm current learning about programming world. Also studying FullStack developer in Egg's Cooperation.
 
-> Actualmente estoy aprendiendo sobre el mundo de la programacion. Tambien estoy estudiando la carrera FullStack con Egg Cooperation.
+> Actualmente estoy aprendiendo sobre el mundo de la programacion. Actualmente estudiando la carrera FullStack con Egg Cooperation.
 
 ***
 
