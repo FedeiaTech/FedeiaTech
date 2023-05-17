@@ -1,6 +1,6 @@
 # Welcome to my repo channel!
 
-![Fede Iacono - Programador Web](https://raw.githubusercontent.com/Kikomori1/Kikomori1/master/assets/01.jpg)
+![Fede Iacono - Programador Web](https://raw.githubusercontent.com/FedeiaTech/FedeiaTech/master/assets/1.jpg)
 
 ***
 
