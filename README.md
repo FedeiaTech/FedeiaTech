@@ -1,14 +1,14 @@
-# Welcome to my repo channel!
+# Welcome everyone!
 
-![Fede Iacono - Programador Web](https://raw.githubusercontent.com/FedeiaTech/FedeiaTech/master/assets/1.jpg)
+![Fede Iacono - Learning Web Proggramming](https://raw.githubusercontent.com/FedeiaTech/FedeiaTech/master/assets/1.jpg)
 
 ***
 
 ## About me
 
-I'm current learning about programming world. Also studying FullStack developer in Egg's Cooperation.
+I'm Fede, a computer enthusiast and technological advances. I have experience managing hardware in general and currently enhancing my skills in software development and management.
 
-> Actualmente estoy aprendiendo sobre el mundo de la programacion. Actualmente estudiando la carrera FullStack con Egg Cooperation.
+> Me llamo Fede y soy un entusiasta de la computación y los avances tecnológicos. Tengo experiencia en el manejo de hardware en general y, actualmente estoy potenciando mis habilidades en desarrollo y gestión de software.
 
 ***
 
