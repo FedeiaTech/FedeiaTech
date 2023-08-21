@@ -13,7 +13,7 @@ I'm Fede, an enthusiast of computers and technological advances. I have experien
 ***
 ## Other links // Otros links
 
-[Tree Pages](https://linktr.ee/fedeiaco))
+[Tree Pages](https://linktr.ee/fedeiaco)
 
 
 ## Skills
