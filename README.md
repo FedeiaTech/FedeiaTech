@@ -11,10 +11,14 @@ I'm Fede, an enthusiast of computers and technological advances. I have experien
 > Me llamo Fede y soy un entusiasta de la computación y los avances tecnológicos. Tengo experiencia en manipulacion de hardware en general y, actualmente estoy potenciando mis habilidades en desarrollo y gestión de software.
 
 ***
+## Other links // Otros links
+
+[Tree Pages](https://linktr.ee/fedeiaco))
+
 
 ## Skills
 
-### CSS  ~  HTML  ~  Javascript  ~  JAVA  --> Fullstack 15%
+### JAVA  ~  SQL  ~  CSS  ~  HTML  ~  Javascript  ~  React
 
 ***
 
