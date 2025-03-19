@@ -1,6 +1,6 @@
 # Welcome everyone!
 
-![Fede Iacono - Learning Web Proggramming](https://raw.githubusercontent.com/FedeiaTech/FedeiaTech/master/assets/1.jpg)
+![Fede Iacono - Learning Web Proggramming](https://raw.githubusercontent.com/FedeiaTech/FedeiaTech/master/assets/1-enhanced.png)
 
 ***
 
