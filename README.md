@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](assets/1.jpg)
+![header](assets/banner.svg)
 
 # Hola, soy Federico Iacono 👋
 
