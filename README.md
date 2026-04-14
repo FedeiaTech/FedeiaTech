@@ -2,8 +2,6 @@
 
 ![header](assets/robots.gif)
 
-![banner](assets/banner.svg)
-
 # Hola, soy Federico Iacono 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Software+Developer;Game+Dev+Student+%40+UTN;Web+%26+AI+Enthusiast;Always+building+something+new...)](https://git.io/typing-svg)
