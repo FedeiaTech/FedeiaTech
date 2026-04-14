@@ -80,11 +80,12 @@ const fede = {
 
 <div align="center">
 
-![Federico's GitHub stats](https://github-readme-stats.vercel.app/api?username=FedeiaTech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<a href="https://github.com/FedeiaTech">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FedeiaTech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedeiaTech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</a>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=FedeiaTech&theme=tokyonight&hide_border=true&locale=es)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FedeiaTech&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=FedeiaTech&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
