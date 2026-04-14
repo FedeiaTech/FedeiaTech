@@ -23,7 +23,7 @@ Apasionado por construir puentes entre **Inteligencia Artificial**, **Sistemas E
 ```javascript
 const fede = {
   ubicacion:   "Argentina 🇦🇷",
-  universidad: "UTN — Ingeniería en Sistemas",
+  universidad: "UTN — Técnico en Programación",
   enfoque:     ["Web Dev", "Enterprise Systems", "Game Dev", "AI"],
   abierto_a:   "Colaboraciones, proyectos y nuevas ideas 🚀"
 };
