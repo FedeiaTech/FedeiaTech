@@ -1,6 +1,8 @@
 <div align="center">
 
-![header](assets/banner.svg)
+![header](assets/robots.gif)
+
+![banner](assets/banner.svg)
 
 # Hola, soy Federico Iacono 👋
 
