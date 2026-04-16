@@ -49,13 +49,22 @@ const fede = {
     <td width="50%">
       <h3 align="center">🏗️ JFX Business Engine</h3>
       <p align="center">
-        Motor de gestión empresarial escalable para PyMEs. Cubre inventario, facturación y operaciones con una interfaz robusta construida en JavaFX y persistencia en MySQL.
+        <img src="assets/jfx/01.jpg" width="100%" alt="Dashboard — JFX Business Engine"/>
+      </p>
+      <p align="center">
+        Sistema de gestión comercial para PyMEs argentinas. POS con tickets PDF, inventario por unidades (u/kg/g/lt), dashboard con KPIs y gráficos, export a Excel y datos offline.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaFX-007396?style=flat&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Apache_POI-D22128?style=flat&logo=apache&logoColor=white"/>
       </p>
+      <p align="center">
+        <img src="assets/jfx/02.jpg" width="48%" alt="Punto de Venta"/>
+        <img src="assets/jfx/03.jpg" width="48%" alt="Gestión de Inventario"/>
+      </p>
+      <p align="center"><sub>🔒 Proyecto comercial privado — en desarrollo activo</sub></p>
     </td>
     <td width="50%">
       <h3 align="center">🌐 FedeiaTech — Portfolio Web</h3>
